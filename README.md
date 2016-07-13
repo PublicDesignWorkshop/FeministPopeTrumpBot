@@ -1,2 +1,2 @@
 # FeministPopeTrumpBot
-Feminist Pope Trump Twitter Bot
+A Twitter Bot that takes tweets from @Pontifex and @realDonald Trump, combines them, and makes them "feminist"
